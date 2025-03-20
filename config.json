@@ -1,0 +1,39 @@
+{
+  "name": "Charlie",
+  "preferences": {
+    "strategic_weight": 4,
+    "creative_weight": 4,
+    "implementation_weight": 1,
+    "learning_weight": 3,
+    "morning_preference": true,
+    "afternoon_preference": false,
+    "evening_preference": true
+  },
+  "energy_profiles": {
+    "Monday": "morning",
+    "Tuesday": "balanced",
+    "Wednesday": "balanced",
+    "Thursday": "afternoon",
+    "Friday": "morning",
+    "Saturday": "balanced",
+    "Sunday": "evening"
+  },
+  "motivation_triggers": {
+    "learning_new_skills": true,
+    "visible_progress": true,
+    "recognition": true,
+    "problem_solving": true
+  },
+  "demotivation_triggers": {
+    "repetitive_tasks": true,
+    "unclear_outcomes": true,
+    "excessive_implementation": true,
+    "lack_of_feedback": true
+  },
+  "task_preferences": {
+    "max_daily_tasks": 5,
+    "prefer_single_project_focus": true,
+    "implementation_chunking": 15,
+    "include_personal_development": true
+  }
+}
